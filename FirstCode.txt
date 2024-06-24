@@ -1,4 +1,6 @@
 first
+<<<<<<< HEAD
 fasna
 shamseer
-adam
+=======
+>>>>>>> parent of 52573b1 (names)
